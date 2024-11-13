@@ -1,0 +1,23 @@
+{
+    "323": {
+        "name": "DOSS",
+        "roll_number": "323",
+        "marks": {
+            "Math": 65.0
+        }
+    },
+    "123456": {
+        "name": "Atsou Josue DOSSOU",
+        "roll_number": "123456",
+        "marks": {
+            "Maths": 75.0
+        }
+    },
+    "1234": {
+        "name": "ABCD",
+        "roll_number": "1234",
+        "marks": {
+            "ENGLISH": 80.0
+        }
+    }
+}
